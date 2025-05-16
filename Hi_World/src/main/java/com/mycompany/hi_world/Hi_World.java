@@ -10,5 +10,6 @@ public class Hi_World {
         for(int i = 0; i < 100; i++){
             System.out.println( 500*1);
         }
+        System.out.println("========================================");
     }
 }
