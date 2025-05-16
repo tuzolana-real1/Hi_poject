@@ -6,5 +6,9 @@ public class Hi_World {
         for (int i = 0; i < 12; i++) {
             System.out.println(i*2);
         }
+        System.out.println("========================================");
+        for(int i = 0; i < 100; i++){
+            System.out.println( 500*1);
+        }
     }
 }
